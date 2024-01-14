@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="bottom"
+    android:layout_height="match_parent"
+    android:padding="15dp"
+    tools:context=".Login"
+    android:background="@drawable/wild_image">
+
+    <ImageView
+        android:id="@+id/image_logo"
+        android:layout_width="379dp"
+        android:layout_height="269dp"
+        android:layout_marginBottom="150dp"
+        android:gravity="center"
+        android:src="@drawable/wild_logo3" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/bangers"
+        android:text="WELCOME TO WILDGUARD PRO"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="70sp" />
+</LinearLayout>

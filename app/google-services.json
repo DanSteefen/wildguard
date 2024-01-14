@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "773017192329",
+    "project_id": "wildguard-pro",
+    "storage_bucket": "wildguard-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773017192329:android:117fed478696673ebf4358",
+        "android_client_info": {
+          "package_name": "com.example.wildguardpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUVGCwqeCO1oRf3jqfYxjPl4khr35ajss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773017192329:android:cfc1aa10e89e0f5fbf4358",
+        "android_client_info": {
+          "package_name": "com.example.wildgurd_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUVGCwqeCO1oRf3jqfYxjPl4khr35ajss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24"/>
+    <item
+        android:id="@+id/menu_create_compliance"
+        android:title="Compliance"
+        android:icon="@drawable/baseline_message_24"/>
+    <item
+        android:id="@+id/menu_update_profile"
+        android:title="Update Profile"
+        android:icon="@drawable/baseline_security_update_24"/>
+    <item
+        android:id="@+id/menu_delete_profile"
+        android:title="Delete Profile"
+        android:icon="@drawable/baseline_delete_24"/>
+    <item
+        android:id="@+id/menu_update_email"
+        android:title="Update Email"
+        android:icon="@drawable/baseline_email_24"/>
+    <item
+        android:id="@+id/menu_setting"
+        android:title="Setting"
+        android:icon="@drawable/baseline_settings_24"/>
+    <item
+        android:id="@+id/menu_change_pasword"
+        android:title="Change Password"
+        android:icon="@drawable/baseline_password_24"/>
+    <item
+        android:id="@+id/menu_log_out"
+        android:title="Log Out"
+        android:icon="@drawable/baseline_logout_24"/>
+</menu>

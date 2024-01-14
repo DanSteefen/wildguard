@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WildGaurd-Pro</string>
+    <string name="register">Sing Up</string>
+    <string name="login">Sing In</string>
+    <string name="first_name">First Name</string>
+    <string name="second_name">Last Name</string>
+    <string name="tel_no">Telephone No</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="loginNow">Sing In Now</string>
+    <string name="regNow">Sing Up Now</string>
+    <string name="logout">Logout</string>
+
+    <string name="Login">Login</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="last_name">lastName</string>
+    <string name="click_to_login">click_to_login</string>
+    <string name="SingInNow">SingInNow</string>
+    <string name="mapbox_access_token">pk.eyj1IjoiYWxsb3kwMiIsImEiOiJjbGtzamJ5czcwM3hiM3RtcWFjbWxhdjMyIno.EF8LsSSNJ7-_4uguI_pDzQ</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
